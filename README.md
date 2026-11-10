@@ -1,3 +1,2 @@
-##MOYENNE
-site de clacul de moyenne telechargez le zip et calculer votre moeyenne avec ##moyenne.py et en ligne avec 
-
+## MOYENNE
+Repo de calcul de moyenne telecharger le **moyenne.py** pour calculer localement et pour la faciliter bien voulioir ce rendre sur 
